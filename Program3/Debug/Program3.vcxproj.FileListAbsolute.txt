@@ -1,0 +1,4 @@
+C:\Users\jasmi\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Program3\Program3\Program3\Debug\Program3.vcxproj.AssemblyReference.cache
+C:\Users\jasmi\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Program3\Program3\Program3\Debug\Program3.HelpForm.resources
+C:\Users\jasmi\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Program3\Program3\Program3\Debug\Program3.MyForm.resources
+C:\Users\jasmi\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Program3\Program3\Program3\Debug\Program3.vcxproj.GenerateResource.cache
